@@ -1,12 +1,12 @@
 {
-  "username": "postgres",
-  "password": "docker",
+  "username": "recover",
+  "password": "gustavo01",
 
   "name": "default",
   "type": "postgres",
   "host": "localhost",
   "port": 5432,
-  "database": "fin_api",
+  "database": "recover_development",
   "entities": [
     "./src/modules/**/entities/*.ts"
   ],
